@@ -5,4 +5,4 @@ def setup(parser, subparsers):
 
 
 def main(parser, config):
-    print "success"
+    print("success")
